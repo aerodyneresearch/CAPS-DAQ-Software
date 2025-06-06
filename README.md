@@ -1,4 +1,4 @@
-# CAPS-DAQ-Software
+## CAPS-DAQ Software
 Data Acquisition system for CAPS Monitors
 
 CAPS-DAQ is a user interface and data acquisition system for the Aerodyne 
