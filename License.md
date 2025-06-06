@@ -1,4 +1,4 @@
-﻿===End-User License Agreement (EULA) for CAPS-DAQ
+###End-User License Agreement (EULA) for CAPS-DAQ
 This End-User License Agreement ("EULA") is a legal agreement between you and 
 Aerodyne Research, Inc. ("Aerodyne") of Billerica, Massachusetts.
 
@@ -13,7 +13,7 @@ described herein. The terms also apply to any Aerodyne Research, Inc. updates,
 supplements, Internet-based services, and support services for the Software, 
 unless other terms accompany those items on delivery. If so, those terms apply.
 
-====Copyright 
+####Copyright 
 
 The Software Product licensed herein is protected by copyright and other 
 intellectual property laws and treaties. Aerodyne owns the title, copyright, 
@@ -27,7 +27,7 @@ any rights in the Software Product. Under no circumstances, shall the End User
 enable or allow a third party to use the Software Product for remuneration of 
 any kind. 
 
-====Grant of License
+####Grant of License
 The use of the CAPS-DAQ software product licensed under this Agreement is 
 subject to the following restrictions and limitations:
 
@@ -37,7 +37,7 @@ subject to the following restrictions and limitations:
   1. This license does not allow the End User to sell, distribute, license, 
   sub-license, alter, modify or reverse engineer the software in any manner.
 
-====Warranty
+####Warranty
 The Software is provided as is and with all faults without warranty of any 
 kind, express or implied, including but not limited to the fitness for a 
 particular use. Aerodyne is not liable for any claim, damages, or other 
