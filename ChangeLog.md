@@ -1,3 +1,9 @@
+##  Service release for CAPS-DAQ 1.8.12
+
+The following bugs were fixed in this release.
+
+1. Parameter dock window would improperly format Packed variables resulting in malformed parameters.
+
 ##  Service release for CAPS-DAQ 1.8.11
 
 The following bugs were fixed in this release.
