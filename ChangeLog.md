@@ -1,3 +1,11 @@
+##  Service release for CAPS-DAQ 1.8.16
+
+The following bugs were fixed with this release.
+
+1. Read the sample frequency from the info command
+2. Hide special menu items associated with older monitors
+3. Added support for the Dual Channel Extinction monitor
+
 ##  Service release for CAPS-DAQ 1.8.12
 
 The following bugs were fixed in this release.
