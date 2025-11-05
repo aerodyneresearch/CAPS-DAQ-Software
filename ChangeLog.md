@@ -1,3 +1,10 @@
+##  Service release for CAPS-DAQ 1.8.17
+
+The following bugs were fixed with this release.
+
+1. The Windows Installer did not include the system configuration for the latest system. 
+   This would cause the mixer gain to be set incorrectly. 
+
 ##  Service release for CAPS-DAQ 1.8.16
 
 The following bugs were fixed with this release.
