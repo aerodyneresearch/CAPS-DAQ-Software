@@ -1,3 +1,10 @@
+##  Service release for CAPS-DAQ 1.8.18
+
+The following bugs were fixed in this release.
+
+1. The units in the display window were mislabeled for the Dual Phase Extinction monitor.
+   It now properly displays inverse megameters as the units for the Extinction values.
+
 ##  Service release for CAPS-DAQ 1.8.17
 
 The following bugs were fixed with this release.
